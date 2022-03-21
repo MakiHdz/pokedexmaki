@@ -1,0 +1,127 @@
+
+body{
+    background-image: url(./background.png);
+}
+
+
+main{
+    width: 300px;
+    height: 600px;
+    margin-right: 1.5%;
+    padding: 30px;
+    background: rgb(167, 76, 76);
+    align-content: center;
+}
+
+
+.pokeTitle{
+ width: 95%;
+ padding: 10px;
+ padding: 20px  ;
+}
+
+.pokedex{
+    margin: auto;
+}
+
+.headerPokedex{
+height:60px;
+width:60px;
+background:#6accfa;
+-moz-border-radius:50px;
+-webkit-border-radius:50px;
+border-radius:50px;
+}
+
+.circulos{
+position: absolute;
+left: 320px;
+height:30px;
+width:30px;
+background:#ecadad;
+-moz-border-radius:50px;
+-webkit-border-radius:50px;
+border-radius:50px;
+}
+
+.circulos2{
+position: absolute;
+left: 355px;
+height:30px;
+width:30px;
+background:#f7e120;
+-moz-border-radius:50px;
+-webkit-border-radius:50px;
+border-radius:50px;
+}
+
+.circulos3{
+position: absolute;
+left: 390px;
+height:30px;
+width:30px;
+background:#f7e120;
+-moz-border-radius:50px;
+-webkit-border-radius:50px;
+border-radius:50px;
+}
+
+.circulos4{    
+    height:60px;
+    width:60px;
+    background:#070703;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    }
+    
+.cruz{    
+    position: absolute;
+    left: 480px;
+    height:60px;
+    width:60px;
+    background:#070703;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    }
+
+.infoPokemon{
+padding: 10px;
+background-color: antiquewhite;
+text-align: center;
+}
+
+.pokebutton{
+    border-radius: 20px;
+    background-color: #f7e120;
+    margin-left: 90px;
+    font-family:arial;
+    font-weight: bolder;
+
+}
+
+.pokebutton2{
+    border-radius: 20px;
+    background-color: #87b6e2;
+    margin-left: 120px;
+    font-family:arial;
+    font-weight: bolder;
+
+}
+
+.pokeTypes{
+    color: #070703;
+}
+
+
+.pokeName{
+    margin-left: 70px;
+}
+
+p{
+    color: aliceblue;
+    font-family: arial;
+}
+
+
